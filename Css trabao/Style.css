@@ -1,0 +1,19 @@
+.h1{
+    color: rgb(0, 255, 106);
+    text-align: center;
+}
+.h2 {
+    color: rgb(38, 216, 53);
+    text-align: center;
+  }
+.h3{
+    color: rgb(38, 216, 53);
+    text-align: center;
+}
+
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(252, 231, 165);
+    background-color: #5e0212; 
+    text-align: center;
+}
